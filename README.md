@@ -297,5 +297,5 @@ All sensitive information (company names, server details, credentials, personal 
 **Marcos Quintero** — Data Engineer  
 Open to opportunities in Spain, Portugal, and Europe.
 
-[!LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/marcosquinterero-dataengineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosquinterero-dataengineer/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcosquintero1987@gmail.com)
